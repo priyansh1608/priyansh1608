@@ -1,0 +1,52 @@
+Q - 5 : Use ChatGPT to suggest 3 new features that could be engineered from a dataset of online food 
+        orders (like Zomato orders: order time, restaurant, cuisine, delivery time, rating). List the
+        features and explain how each could help a data science model.<br><br><em><strong>Hint:
+        </strong> Paste the column names into ChatGPT and ask for feature engineering ideas.</em>
+
+
+Answer : 
+
+
+Suppose the dataset contains:
+
+order_time
+restaurant
+cuisine
+delivery_time
+rating
+1. Order Hour
+
+Feature: Extract the hour from order_time.
+
+Example:
+
+14:30 → 14
+20:45 → 20
+
+How it helps:
+The model can learn whether delivery times, ratings, or order patterns change during lunch and dinner hours.
+
+2. Delivery Speed Category
+
+Feature: Convert delivery_time into categories such as:
+
+0–30 minutes  → Fast
+31–60 minutes → Medium
+60+ minutes   → Slow
+
+How it helps:
+This can help a model understand the relationship between delivery speed and customer ratings.
+
+3. Restaurant Order Frequency
+
+Feature: Count how many orders were placed from each restaurant.
+
+Example:
+
+Restaurant A → 50 orders
+Restaurant B → 20 orders
+Restaurant C → 35 orders
+
+How it helps:
+The model can identify frequently used restaurants and learn patterns related to customer preferences and 
+restaurant popularity.

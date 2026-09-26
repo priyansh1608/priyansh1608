@@ -1,0 +1,110 @@
+Q - 1 : List 3 apps you use daily (such as Instagram, Zomato, Paytm) and describe one way each app uses
+        data to improve your experience.
+
+
+Answer -
+
+App	                    |    How the app uses data to improve your experience
+
+Instagram	            |    Instagram analyzes the posts, reels, likes, comments,
+                             and accounts you interact with to personalize your feed 
+                             and recommend content that may interest you.
+
+Zomato	                |    Zomato uses your previous orders, searches, ratings, 
+                             location, and restaurant preferences to recommend restaurants
+                             and food items that are more relevant to you.
+
+Paytm	                |    Paytm can use transaction and interaction data to personalize 
+                             the services, offers, and products shown to users.
+
+
+
+=====================================================================================================
+
+Q - 2 : Create a table with three columns: Statistics, Programming, and Domain Knowledge. For each column,
+        write 2 specific skills or concepts that are important for a Data Scientist and give a real-world 
+        example (not from healthcare) of how each is used.
+
+
+Answer : 
+
+
+| Statistics              | Programming        | Domain Knowledge         |
+| ----------------------- | ------------------ | ------------------------ |
+| 1. Mean and Median:     | 1. Python:         | 1. Business Knowledge:   |
+| Used to find the average| Used for data      | Helps a Data Scientist   |
+| or typical value in a   | cleaning, analysis,| understand the company's |
+| dataset. Example: An    | visualization,     | goals and problems.      |
+| e-commerce company can  | and machine        | Example: In e-commerce,  | 
+| calculate the average   | learning. Example: | understanding sales and  |
+| order value of its      | A company can use  | customer behavior helps  |
+| customers to understand | Python and Pandas  | build useful             |
+| purchasing behavior.    | to analyze customer| recommendation systems.  |
+|                         | purchase data.   
+|                         |
+| 2. Probability: Helps   | 2. SQL: Used to    | 2. Industry Trends:       |
+| estimate the likelihood | retrieve and       | Understanding trends in a | 
+| of an event. Example:   | analyze data       | particular industry helps |
+| An online store can     | stored in          | interpret data correctly. | 
+| estimate the probability| databases. Example:| Example: In sports,       |
+| that a customer will    | A retailer can use | knowledge of player       |
+| purchase a product after| SQL to find its    | performance and match     |
+| viewing it.             | top-selling        | statistics can help       |
+|                         | products from      | analyze team performance. | 
+|                         | millions of sales  |                           |
+|                         | records.           |                           |
+
+
+
+==============================================================================================
+
+Q - 3 : Imagine you work for a music streaming app like Spotify. Write a short scenario (3-4 sentences)
+        describing how data-driven decision making could help the app recommend new songs to users.
+
+
+
+Answer : 
+
+Imagine I work for a music streaming app like Spotify. 
+
+The app can analyze a user's listening history, liked songs, skipped songs, artists, and genres to
+understand their preferences. 
+ 
+ A machine-learning model can compare this behavior with patterns from 
+ other users and identify songs the user may enjoy. 
+ 
+ The app can then recommend new songs and continuously improve the recommendations based on the user's 
+ latest interactions.
+
+
+==========================================================================================================
+
+Q - 4 : Pick one industry from this list: e-commerce, sports, or transportation. Research and describe one
+        innovative way data science is being used in that industry today.<br><br><em><strong>Hint:</strong> 
+        Search for terms like 'data science in e-commerce' or 'data analytics in sports' to find real examples.
+        </em>
+
+
+Answer : 
+
+Industry: E-Commerce
+
+One innovative use of data science in e-commerce is personalized product recommendation.
+E-commerce companies can analyze browsing history, previous purchases, product views, clicks, 
+and other interactions to predict which products are most relevant to each customer. Modern 
+recommendation systems can also use real-time activity, so recommendations can change as the
+customer's interests change.
+
+For example, Amazon Personalize documents recommendation systems that use customer interaction
+data to provide personalized recommendations. Its systems can also use contextual information such
+as device type or time of day to improve recommendation relevance.
+
+Example: If a customer frequently searches for running shoes and sports clothing, a recommendation 
+         system may show running shoes, sports watches, or related accessories. This helps customers 
+        discover relevant products more easily while giving the e-commerce company data-driven insights 
+        into customer preferences.
+
+Conclusion
+
+Data science is helping e-commerce companies move from showing the same products to everyone toward 
+personalized and continuously updated shopping experiences.

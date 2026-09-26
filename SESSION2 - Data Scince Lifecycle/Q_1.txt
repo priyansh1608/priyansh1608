@@ -1,0 +1,33 @@
+1.   Pick any one app you use daily (like Zomato, Instagram, or Flipkart) and write a short problem definition 
+     for a data science project that could improve the app's user experience. Clearly state the business goal 
+     and what data you would need.
+
+
+Answer : 
+
+
+Problem Definition:
+
+Instagram wants to improve the user experience by showing users more relevant posts and Reels.
+The data science project will analyze user interactions to predict what type of content each user
+is likely to enjoy.
+
+Business Goal:
+
+The goal is to increase user engagement and satisfaction by providing more personalized content recommendations.
+
+Data Required:
+
+- User ID
+- Posts/Reels viewed
+- Likes
+- Comments
+- Shares
+- Saves
+-Following accounts
+-Time spent watching content
+-Content category
+
+Expected Outcome:
+
+A recommendation model can use this data to predict which posts or Reels are most relevant to each user.
